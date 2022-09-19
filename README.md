@@ -1,2 +1,6 @@
 # Hotello
-Uppgift 1
+haha, jag tog bort.
+daskdopaskö
+
+testar igem
+
