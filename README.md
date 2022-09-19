@@ -1,6 +1,1 @@
-# Hotello
-haha, jag tog bort.
-daskdopaskö
-
-testar igem
-
+Jag tar bort allt och lägger till nytt
